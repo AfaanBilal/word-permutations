@@ -1,7 +1,7 @@
 Word Permutaions
 ==============
 
-Author: **[Afaan Bilal](https://afaan.me)**  
+Author: **[Afaan Bilal](https://afaan.dev)**  
 
 ## Introduction
 **Word Permutaions** is a C program that displays all possible permutaions for a set of characters.
